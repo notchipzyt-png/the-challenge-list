@@ -1,0 +1,30 @@
+{
+    "id": 135352289,
+    "name": "Avobrocado",
+    "author": "Dodison",
+    "creators": [],
+    "verifier": "NotChipz",
+    "verification": "https://youtu.be/t4Ug_9B04IM",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Dunce",
+            "link": "https://medal.tv/games/geometry-dash/clips/mhRaYWBpp9iPbzNaS?invite=cr-MSx0c2EsNTY0MjExMDE4&tab=home",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "Obey",
+            "link": "https://www.youtube.com/watch?v=RgYoyk1u9lU",
+            "percent": 100,
+            "hz": 300
+        },
+                {
+            "user": "Dodi",
+            "link": "https://youtu.be/4snx2YSA-wQ",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
